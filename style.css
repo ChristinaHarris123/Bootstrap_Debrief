@@ -1,0 +1,13 @@
+nav {
+    display: block; 
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+
+}
